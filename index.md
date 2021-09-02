@@ -2,5 +2,5 @@
 
 **Favorite Things About CS193**
 - Only have it one day a week
-- Taught by current students who have been in our shoes as opposed to older professors
+- Taught by current students who have been in our shoes insteaod of older professors
  
